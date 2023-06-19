@@ -1,0 +1,13 @@
+.input{
+    padding: 10px;
+    border-radius: 10px;
+    border: 0;
+}
+
+.submit{
+    margin-left: 20px;
+    background-color:antiquewhite;
+    padding: 8px;
+    border: 0;
+    border-radius: 5px;
+}
